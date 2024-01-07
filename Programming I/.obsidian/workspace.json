@@ -75,9 +75,9 @@
               "state": {
                 "file": "Übersicht.canvas",
                 "viewState": {
-                  "x": 2743.3873016018556,
-                  "y": 1317.5423569618642,
-                  "zoom": -1.6666666666666665
+                  "x": 2922.6562576971332,
+                  "y": 1907.6977306093622,
+                  "zoom": -1.1102230246251565e-16
                 }
               }
             }
@@ -226,23 +226,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5264b93519451974",
+  "active": "d196befb09220324",
   "lastOpenFiles": [
-    "Algorithmen/Algorithmus.md",
+    "Datentypen/Zahlen.md",
     "Übersicht.canvas",
+    "Datentypen/Boolean.md",
+    "Datentypen/Datentypen.md",
+    "Aufgaben/Übung 2.md",
+    "Aufgaben/Übung 1.md",
+    "Algorithmen/Algorithmus.md",
     "allgemein/Programmiersprachen.md",
     "allgemein/Programmierung.md",
     "Compiler vs Interpreter/Interpreter.md",
     "Compiler vs Interpreter/Compiler.md",
     "Datentypen/short.md",
-    "Datentypen/Zahlen.md",
     "Datentypen/float.md",
     "Datentypen/int.md",
-    "Datentypen/Datentypen.md",
     "Datentypen/Datentypen - Zahlen.png",
     "Datentypen/char.md",
     "Datentypen/long.md",
-    "Datentypen/Boolean.md",
     "Datentypen/Analogie zur Mathematik.md",
     "allgemein/Programme.md",
     "allgemein/EVA Prinzip.md",
@@ -255,9 +257,6 @@
     "allgemein/Definitionen/Transfer.md",
     "allgemein/Definitionen/Kreativität.md",
     "Algorithmen/Beispiele für Nicht-Algorithmen.md",
-    "allgemein/Definitionen/Erfahrung.md",
-    "Todo MultiThread.md",
-    "allgemein/Definitionen/Typstreng.md",
     "allgemein",
     "Untitled",
     "Algorithmen",
