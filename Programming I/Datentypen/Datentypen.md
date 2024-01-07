@@ -9,4 +9,4 @@ N0 Natürliche Zahlen mit 0 (+) 0, 1, 2, 3 ... ∞
 Z Ganze Zahlen (+ und -) -∞, -5, -4 …, 0, 1, 2, …, ∞
 R Reelle Zahlen (Kommazahlen)
 
-Diese [[Zahlen]] können wir nun mit Datentypen Darstellen
+Diese [[Zahlen]] kann man mit Datentypen Darstellen

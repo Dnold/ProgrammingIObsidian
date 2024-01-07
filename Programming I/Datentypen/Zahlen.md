@@ -2,8 +2,8 @@ Man kann verschiedene Zahlenwerte mit Hilfe von Datentypen darstellen. Verschied
 
 ![[Datentypen - Zahlen.png]]
 **Integer (Ganze Zahlen)**
-[[char]], short, int, long 
+[[char]], [[short]], [[int]], [[long]]
 **Fließkommazahlen (Reelle Zahlen)**
-float, double, long double
+[[float]], double, long double
 
 Aufpassen mit dem [[char]] Datentypen!

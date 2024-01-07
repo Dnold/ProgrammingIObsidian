@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "allgemein/Kreativität.md",
+                "file": "allgemein/Definitionen/Kreativität.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,6 +52,33 @@
                 "file": "Datentypen/Zahlen.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2564e8e72ae22349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datentypen/Datentypen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d196befb09220324",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Übersicht.canvas",
+                "viewState": {
+                  "x": 2743.3873016018556,
+                  "y": 1317.5423569618642,
+                  "zoom": -1.6666666666666665
+                }
               }
             }
           },
@@ -72,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allgemein/Programme.md",
+                "file": "Übersicht.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allgemein/Programme.md",
+                "file": "Übersicht.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allgemein/Programme.md"
+                "file": "Übersicht.canvas"
               }
             }
           }
@@ -201,36 +228,39 @@
   },
   "active": "5264b93519451974",
   "lastOpenFiles": [
-    "ProgrammingIObsidian",
-    "allgemein/Ideen.md",
-    "allgemein/EVA Prinzip.md",
-    "Craft.md",
-    "allgemein/Intuition.md",
-    "allgemein/Experimentation.md",
-    "allgemein/Programmierung.md",
-    "allgemein/Programme.md",
-    "allgemein/Transfer.md",
+    "Algorithmen/Algorithmus.md",
+    "Übersicht.canvas",
     "allgemein/Programmiersprachen.md",
-    "allgemein/Kreativität.md",
-    "Algorithmen/Beispiele für Nicht-Algorithmen.md",
-    "allgemein/Erfahrung.md",
-    "Datentypen/Analogie zur Mathematik.md",
-    "Datentypen/Boolean.md",
-    "Datentypen/char.md",
-    "Todo MultiThread.md",
-    "allgemein/Typstreng.md",
-    "Datentypen/Datentypen.md",
-    "RayLib/Performance Test Island Generator.md",
-    "Programming I/allgemein/Einführung.md",
+    "allgemein/Programmierung.md",
+    "Compiler vs Interpreter/Interpreter.md",
+    "Compiler vs Interpreter/Compiler.md",
+    "Datentypen/short.md",
     "Datentypen/Zahlen.md",
-    "allgemein/typecast.md",
-    "allgemein/case-sensitiv.md",
-    "Programming I/allgemein/case-sensitive.md",
+    "Datentypen/float.md",
+    "Datentypen/int.md",
+    "Datentypen/Datentypen.md",
+    "Datentypen/Datentypen - Zahlen.png",
+    "Datentypen/char.md",
+    "Datentypen/long.md",
+    "Datentypen/Boolean.md",
+    "Datentypen/Analogie zur Mathematik.md",
+    "allgemein/Programme.md",
+    "allgemein/EVA Prinzip.md",
+    "allgemein/Definitionen",
+    "ProgrammingIObsidian",
+    "allgemein/Definitionen/Ideen.md",
+    "Craft.md",
+    "allgemein/Definitionen/Intuition.md",
+    "allgemein/Definitionen/Experimentation.md",
+    "allgemein/Definitionen/Transfer.md",
+    "allgemein/Definitionen/Kreativität.md",
+    "Algorithmen/Beispiele für Nicht-Algorithmen.md",
+    "allgemein/Definitionen/Erfahrung.md",
+    "Todo MultiThread.md",
+    "allgemein/Definitionen/Typstreng.md",
     "allgemein",
-    "allgemein/Daten.md",
     "Untitled",
     "Algorithmen",
-    "Datentypen/Datentypen - Zahlen.png",
     "Datentypen",
     "Compiler vs Interpreter/Compiler.png",
     "Compiler vs Interpreter/Interpreter.png",
@@ -241,8 +271,6 @@
     "Aufgaben/Übung3LösungB.png",
     "Aufgaben/Übung3LösungA.png",
     "Programming I/Übung3Lösung.png",
-    "Programming I",
-    "Rap",
-    "RayLib"
+    "Programming I"
   ]
 }
