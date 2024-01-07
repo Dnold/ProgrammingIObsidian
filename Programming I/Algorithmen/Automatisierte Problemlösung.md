@@ -1,0 +1,1 @@
+Spezielle Lösung für ein Problem mithilfe automatisierbarer Maschinen.

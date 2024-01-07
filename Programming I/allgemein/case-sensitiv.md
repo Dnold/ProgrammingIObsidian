@@ -1,0 +1,1 @@
+Der englische Ausdruck case sensitivity bezeichnet in der elektronischen Datenverarbeitung allgemein die Art und Weise, wie eine Rechenmaschine oder Programmiersprache die Unterscheidung von Groß- und Kleinschreibung handhabt.

@@ -1,0 +1,4 @@
+- Bedienungsanleitungen (z.B., elektronische Geräte)
+- Reparaturanleitungen (z.B., Fahrzeuge)
+- Kochrezepte (z.B., Backen)
+- Meist unvollständig oder weniger präzise
