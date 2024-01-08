@@ -75,9 +75,9 @@
               "state": {
                 "file": "Übersicht.canvas",
                 "viewState": {
-                  "x": 1767.3293121778781,
-                  "y": 2301.8626765277054,
-                  "zoom": -0.5998757904271311
+                  "x": 3365.3443256006685,
+                  "y": 1151.3623416158189,
+                  "zoom": -1.1692983363941336
                 }
               }
             }
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufgaben/Übung3LösungB.png",
+                "file": "Übersicht.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aufgaben/Übung3LösungB.png",
+                "file": "Übersicht.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufgaben/Übung3LösungB.png"
+                "file": "Übersicht.canvas"
               }
             }
           },
@@ -278,14 +278,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5264b93519451974",
+  "active": "d196befb09220324",
   "lastOpenFiles": [
+    "Aufgaben/Übung3LösungB.png",
     "Aufgaben/Übung 3.md",
     "Aufgaben/Übung3LösungA.png",
     "Aufgaben/Übung3LösungC.png",
     "Übung3LösungB.png.md",
-    "Aufgaben/Übung3LösungB.png",
-    "Aufgaben/Übung3LösungB.png",
     "allgemein/Programmiersprachen.md",
     "allgemein/Programme.md",
     "Übersicht.canvas",
